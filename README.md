@@ -8,4 +8,3 @@ those Era launchers should work with either lawin or fiddler. except for the "FM
 the era.dll is the dll for era first release! https://www.youtube.com/watch?v=6N6hlD1DcHE    this is a video made by Mineluke that shows that dll.
 
 
-Era If u are seeing this i posted this to remind pepole of how good was era now that its shutting down. i dont mean any harm.
